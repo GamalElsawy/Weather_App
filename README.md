@@ -1,4 +1,4 @@
-# weather_app.
+# Weather App.
 Which You Can Today Maximum and Minimum Temperatures, Humidity, Air Pressure and Other Properties Using Weather API.
 
 
